@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 [![NixOS](https://user-images.githubusercontent.com/69384921/160887186-0a021abf-9ba2-4560-ab79-cd6ade9de2dd.png)](https://nixos.org)
 [![vscode](https://user-images.githubusercontent.com/69384921/160889834-955dcb97-4caf-4bf5-a9fd-a14a4f0c51a9.png)](https://aka.ms/vscode)
 
+[![An image of @zstg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zstg)](https://holopin.io/@zstg)
