@@ -2,9 +2,9 @@
 ## I'm zstg, a hardcore GNU+Linux fan who loves to distrohop and experiment with the latest & greatest!
 
 <!-- [![Static Badge](https://img.shields.io/badge/Blog%20site-https%3A%2F%2Fzstg.github.io-blue)](https://zstg.github.io) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=zstg&theme=tokyonight&margin-h-105)](https://github.com/lugvitc/LUG_custom_distro)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zstg&theme=tokyonight&langs_count=8&layout=pie)](https://github.com/lugvitc/LUG_custom_distro)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zstg&theme=tokyonight&langs_count=8&layout=compact)](https://github.com/lugvitc/LUG_custom_distro)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zstg&theme=tokyonight&margin-h-105)](https://github.com/lugvitc/StratOS-iso)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zstg&theme=tokyonight&langs_count=8&layout=pie)](https://github.com/lugvitc/StratOS-iso)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zstg&theme=tokyonight&langs_count=8&layout=compact)](https://github.com/lugvitc/StratOS-iso)
 
 [![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)](https://gnu.org/software/emacs)
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org)
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I’m currently working on [lugOS](https://github.com/lugvitc/LUG_custom_distro), an Arch-based distribution with [Bedrock](https://bedrocklinux.org) support.
+- I’m currently working on [lugOS](https://github.com/lugvitc/StratOS-iso), an Arch-based distribution with [Bedrock](https://bedrocklinux.org) support.
 - I’m currently learning Python, Rust and Go.
 - Ask me about my choice of IDEs (Emacs ~~for now~~ forever), Linux distros (I use Arch BTW) and the like.
 - Pronouns: He/Him
