@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I’m currently working on [lugOS](https://github.com/lugvitc/StratOS-iso), an Arch-based distribution with [Bedrock](https://bedrocklinux.org) support.
+- I’m currently working on [StratOS](https://github.com/lugvitc/StratOS-iso), an Arch-based distribution with [Bedrock](https://bedrocklinux.org) support.
 - I’m currently learning Python, Rust and Go.
 - Ask me about my choice of IDEs (Emacs ~~for now~~ forever), Linux distros (I use Arch BTW) and the like.
 - Pronouns: He/Him
