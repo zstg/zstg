@@ -6,6 +6,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zstg&theme=tokyonight&langs_count=8&layout=pie)](https://github.com/lugvitc/StratOS-iso)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zstg&theme=tokyonight&langs_count=8&layout=compact)](https://github.com/lugvitc/StratOS-iso)
 
+
+ [![My Skills](https://skillicons.dev/icons?i=linux,rust,emacs,arch,docker,bash,zig,ubuntu,aws,bsd,fediverse,mastodon,discord,github,gitlab,python,qt,tensorflow,raspberrypi,anaconda,gtk,fortran,julia,kali,matlab,octave,neovim,r,latex,nix)](https://skillicons.dev)
+
+<!--
 [![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)](https://gnu.org/software/emacs)
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org)
 [![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)](https://nixos.org)
@@ -25,7 +29,7 @@
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
 [![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://libreoffice.org)
-
+-->
 
 
 
