@@ -2,9 +2,9 @@
 ## I'm zstg, a hardcore GNU+Linux fan who loves to distrohop and experiment with the latest & greatest!
 
 <!-- [![Static Badge](https://img.shields.io/badge/Blog%20site-https%3A%2F%2Fzstg.github.io-blue)](https://zstg.github.io) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=zstg&theme=tokyonight&margin-h-105)](https://github.com/lugvitc/StratOS-iso)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zstg&theme=tokyonight&langs_count=8&layout=pie)](https://github.com/lugvitc/StratOS-iso)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zstg&theme=tokyonight&langs_count=8&layout=compact)](https://github.com/lugvitc/StratOS-iso)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zstg&theme=tokyonight&margin-h-105)](https://github.com/StratOS-Linux/StratOS-iso)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zstg&theme=tokyonight&langs_count=8&layout=pie)](https://github.com/StratOS-Linux/StratOS-iso)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zstg&theme=tokyonight&langs_count=8&layout=compact)](https://github.com/lugvitc/StratOS-iso) -->
 
 
  [![My Skills](https://skillicons.dev/icons?i=linux,rust,emacs,arch,docker,bash,zig,ubuntu,aws,bsd,fediverse,mastodon,discord,github,gitlab,python,qt,tensorflow,raspberrypi,anaconda,gtk,fortran,julia,kali,matlab,octave,neovim,r,latex,nix)](https://skillicons.dev)
