@@ -1,5 +1,5 @@
 # Greetings! 
-## I'm zstg, a hardcore GNU+Linux fan who loves to distrohop and experiment with the latest & greatest!
+<!-- ## I'm zstg, a hardcore GNU+Linux fan who loves to distrohop and experiment with the latest & greatest! -->
 
 <!-- [![Static Badge](https://img.shields.io/badge/Blog%20site-https%3A%2F%2Fzstg.github.io-blue)](https://zstg.github.io) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=zstg&theme=tokyonight&margin-h-105)](https://github.com/StratOS-Linux/StratOS-iso)
